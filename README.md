@@ -1,4 +1,4 @@
-# ChangeProblem
+# Change Problem
 Revisiting a simple change problem with C++
 
 Problem: we have an amount n in a vendor machine that we need to convert into dollar and penny change. Let’s start with the brute-force solution in C++ by counting the bills from 10 to 0.1 and subtracting them one by one. In the main we would have a fixed array
